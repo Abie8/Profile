@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abisrinivasan1008@gmail.com**
 
-- 📄 Know about my experiences [Computer Science undergraduate with strong skills in Python and SQL, passionate about data analytics and digital branding. Proven experience with CRUD applications and a growing foundation in UI/UX design and data visualization](Computer Science undergraduate with strong skills in Python and SQL, passionate about data analytics and digital branding. Proven experience with CRUD applications and a growing foundation in UI/UX design and data visualization)
+- 📄 Know about my experiences [Computer Science undergraduate with strong skills in Python and SQL, passionate about data analytics and digital branding. Proven experience with CRUD applications and a growing foundation in UI/UX design and data visualization]
 
 - ⚡ Fun fact **"First, Solve the problem, then Write the Code"-John Johnson**
 
