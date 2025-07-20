@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek S</h1>
-<h3 align="center">CS Undergrad | Turning Coffee into Code!</h3>
+<h3 align="center">CS Undergraduate | Turning Coffee into Code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abie8&label=Profile%20views&color=0e75b6&style=flat" alt="abie8" /> </p>
 
